@@ -1,4 +1,4 @@
-# zomato
+# Zomato dashboard
 This Power BI dashboard provides a comprehensive analysis of restaurant data sourced from Zomato, a leading online restaurant discovery platform. Leveraging Zomato's extensive dataset, this dashboard offers insights into restaurant ratings,user Performance.
 
 ### Key Measures 
