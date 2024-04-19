@@ -43,3 +43,6 @@ By leveraging Power BI's data visualization and exploration capabilities, we wer
 ## Conclusion
 <li>This project offers actionable insights to optimize operations, enhance user experience, and drive business growth in the competitive food delivery landscape.</li>
 
+![image](https://github.com/dharshinigopalan/zomato/assets/113204616/cb15c755-f3dc-45b5-9992-5aca9da548e5)
+
+
